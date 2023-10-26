@@ -28,6 +28,10 @@ So, plone installs now with these commands
 
     python3.9 -m venv .
 
+     or
+
+    python3.10 -m venv .
+
 **** 
 
 bin/pip  install pip==23.0.1 setuptools==67.6.1 wheel==0.40.0  zc.buildout==3.0.1
